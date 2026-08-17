@@ -4,9 +4,9 @@ I started programming when I was 12 and haven't really stopped since.
 
 I enjoy solving hard problems. The kind where a migration can't drop a session, a performance issue hides behind several services, or the obvious fix only moves the problem somewhere else.
 
-Over the years I've been a developer, a founder, and an engineering manager. I joined Riverside as one of the first 6 engineers and eventually led 27 people across 4 teams. Leadership became part of the job. Building things never stopped being the part I enjoy most.
+Over the years I've been a developer, a founder, and an engineering manager. I joined Riverside as one of the first 6 engineers and eventually led 27 people across 4 teams. Leadership became part of the job. Building useful products for real people never stopped being the part I enjoy most.
 
-These days I'm using a sabbatical to make products, experiment with AI outside the demo stage, and automate increasingly specific problems around my house.
+These days I'm using a sabbatical to build AI products end to end and automate increasingly specific problems around my house.
 
 ---
 
@@ -63,7 +63,7 @@ And many more languages and frameworks that don't exist anymore, which probably 
 
 ### ☕ Beyond the code
 
-I'm an Argentine-Italian living in Milan. I'm a dad, I swim, I snowboard when the mountains cooperate, and I spend an unreasonable amount of time designing things for my 3D printer.
+I'm an Argentine-Italian living in Milan, and yes, I speak Spanish 🇦🇷, English 🇬🇧, and Italian 🇮🇹 fluently. I'm a dad, I swim, I enjoy a good espresso, I snowboard when the mountains cooperate, and I spend an unreasonable amount of time building smart-home automations and 3D printing whatever parts they need.
 
 ---
 

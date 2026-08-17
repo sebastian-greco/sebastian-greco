@@ -63,7 +63,7 @@ And many more languages and frameworks that don't exist anymore, which probably 
 
 ### ☕ Beyond the code
 
-I'm an Argentine-Italian living in Milan, and yes, I speak Spanish 🇦🇷, English 🇬🇧, and Italian 🇮🇹 fluently. I'm a dad, I swim, I enjoy a good espresso, I snowboard when the mountains cooperate, and I spend an unreasonable amount of time building smart-home automations and 3D printing whatever parts they need.
+I'm an Argentine-Italian living in Milan, and yes, I speak Spanish 🇦🇷, English 🇬🇧, and Italian 🇮🇹 fluently. I'm a dad, I swim, I enjoy a good espresso, I snowboard when the mountains cooperate, I like 3D printing, and I spend an unreasonable amount of time building smart-home automations.
 
 ---
 

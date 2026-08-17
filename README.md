@@ -2,9 +2,9 @@
 
 I started programming when I was 12 and haven't really stopped since.
 
-I enjoy hard problems. The kind where a migration can't drop a session, a performance issue hides behind several services, or the obvious fix only moves the problem somewhere else.
+I enjoy solving hard problems. The kind where a migration can't drop a session, a performance issue hides behind several services, or the obvious fix only moves the problem somewhere else.
 
-Over the years I've been a developer, a founder, and an engineering manager. I joined Riverside as one of 6 engineers and eventually led 27 people across 4 teams. Leadership became part of the job. Building things never stopped being the part I enjoy most.
+Over the years I've been a developer, a founder, and an engineering manager. I joined Riverside as one of the first 6 engineers and eventually led 27 people across 4 teams. Leadership became part of the job. Building things never stopped being the part I enjoy most.
 
 These days I'm using a sabbatical to make products, experiment with AI outside the demo stage, and automate increasingly specific problems around my house.
 
@@ -47,18 +47,17 @@ And many more languages and frameworks that don't exist anymore, which probably 
 - Migrated millions of active sessions to JWTs and Redis with zero downtime or interrupted recordings
 - Reduced overall latency by 33% after stabilizing cascading crashes during 15× growth and finding the Mongoose hydration bottleneck
 - Have been building with LLMs since the GPT-3 days when context windows were tiny, including Riverside's first AI features and shared LLM service
-- Shipped 3 AI products during my sabbatical: Verba, Informia, and FallosES
 - Coached 3 engineers as they grew from ICs into Team Leads, working with them on delegation, feedback, stakeholder management, and leading through others
 - Ran 100+ engineering interviews across IC, Team Lead, and VP-level roles, with final technical sign-off across multiple teams
-- Co-founded Streamix, worked with clients including Mediaset and Condé Nast, joined Startupbootcamp Media, pitched to 250+ investors, and somehow survived [the pitch](https://www.youtube.com/watch?v=iGYf1SZFDMU)
+- Co-founded Streamix, worked with clients including Mediaset and Condé Nast, joined Startupbootcamp Media, presented Streamix in front of 250+ investors, and somehow survived [the pitch](https://www.youtube.com/watch?v=iGYf1SZFDMU)
 
 ---
 
 ### 🛠️ Things I've been building lately
 
-- **[FallosES](https://falloses.com)** is a legal research assistant for Spain. It searches official sources, keeps the context of the conversation, and returns answers with citations through the web or WhatsApp.
-- **[Verba](https://verbaspeech.app/)** is a dictation app for macOS. Transcription runs on the device, and a local language model cleans up the text without sending it to the cloud.
-- **[Informia](https://www.informia.com.ar/)** reads Argentine property documents, pulls out the useful fields, shows where each answer came from, and helps with the browser work that follows.
+- **[FallosES](https://falloses.com)** uses file search across Spanish legal rulings to ground every response in official sources, with citations on both web and WhatsApp.
+- **[Verba](https://verbaspeech.app/)** is private, subscription-free dictation for macOS. Transcription and language models run locally, with nothing sent to the cloud.
+- **[Informia](https://www.informia.com.ar/)** uses context caching to process Argentine property documents, extract the useful fields, and crop the exact evidence behind each answer.
 
 ---
 

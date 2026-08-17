@@ -10,6 +10,12 @@ These days I'm using a sabbatical to make products, experiment with AI outside t
 
 ## 🧰 Tech stack
 
+**Real-time and media**
+
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+
 **Product and web**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -30,12 +36,13 @@ These days I'm using a sabbatical to make products, experiment with AI outside t
 **Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 And many more languages and frameworks that don't exist anymore, which probably says more about my age than this list does.
 
-## 🔧 Impact
+## 💥 Impact
 
 - Migrated millions of active sessions to JWTs and Redis with zero downtime or interrupted recordings
 - Reduced overall latency by 33% after stabilizing cascading crashes during 15× growth and finding the Mongoose hydration bottleneck
@@ -43,7 +50,7 @@ And many more languages and frameworks that don't exist anymore, which probably 
 - Shipped 3 AI products during my sabbatical: Verba, Informia, and FallosES
 - Coached 3 engineers as they grew from ICs into Team Leads, working with them on delegation, feedback, stakeholder management, and leading through others
 - Ran 100+ engineering interviews across IC, Team Lead, and VP-level roles, with final technical sign-off across multiple teams
-- Co-founded Streamix, worked with clients including Mediaset and Condé Nast, joined Startupbootcamp Media, and pitched to 250+ investors ([watch the pitch](https://www.youtube.com/watch?v=iGYf1SZFDMU))
+- Co-founded Streamix, worked with clients including Mediaset and Condé Nast, joined Startupbootcamp Media, pitched to 250+ investors, and somehow survived [the pitch](https://www.youtube.com/watch?v=iGYf1SZFDMU)
 
 ## 🛠️ Things I've been building lately
 
@@ -51,19 +58,10 @@ And many more languages and frameworks that don't exist anymore, which probably 
 - **[Verba](https://verbaspeech.app/)** is a dictation app for macOS. Transcription runs on the device, and a local language model cleans up the text without sending it to the cloud.
 - **[Informia](https://www.informia.com.ar/)** reads Argentine property documents, pulls out the useful fields, shows where each answer came from, and helps with the browser work that follows.
 
-## 🧪 Open source and experiments
-
-- **[Home Assistant WhatsApp](https://github.com/sebastian-greco/home-assistant-whatsapp)** sends self-hosted WhatsApp notifications from Home Assistant, including actionable polls.
-- **[Daikin External Thermostat](https://github.com/sebastian-greco/ha-daikin-external-thermostat)** controls an air conditioner from a better room sensor without hammering its API.
-- **[React Native Google Sign-In Modern](https://github.com/sebastian-greco/react-native-google-signin-modern)** uses Android's Credential Manager for Google sign-in, without depending on a paid library.
-- **[Agent Skills](https://github.com/sebastian-greco/agent-skills)** is a small collection of workflows I use with coding agents for reviews, issues, and pull requests.
-
-Some of these started because I couldn't find a tool I liked. A few probably exist because I have trouble leaving small annoyances alone.
-
 ## ☕ Beyond the code
 
 I'm an Argentine-Italian living near Milan. I'm a dad, I swim, I snowboard when the mountains cooperate, and I spend an unreasonable amount of time designing things for my 3D printer.
 
 ## 👋 Say hello
 
-[LinkedIn](https://www.linkedin.com/in/grecosebastian)
+[/in/grecosebastian](https://www.linkedin.com/in/grecosebastian/)

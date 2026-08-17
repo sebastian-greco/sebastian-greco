@@ -13,13 +13,11 @@ These days I'm using a sabbatical to make products, experiment with AI outside t
 ### 🧰 Tech stack
 
 **Real-time and media**
-
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 
 **Product and web**
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -27,7 +25,6 @@ These days I'm using a sabbatical to make products, experiment with AI outside t
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 **Backend and data**
-
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -36,9 +33,8 @@ These days I'm using a sabbatical to make products, experiment with AI outside t
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
 
 **Infrastructure**
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
@@ -68,10 +64,10 @@ And many more languages and frameworks that don't exist anymore, which probably 
 
 ### ☕ Beyond the code
 
-I'm an Argentine-Italian living near Milan. I'm a dad, I swim, I snowboard when the mountains cooperate, and I spend an unreasonable amount of time designing things for my 3D printer.
+I'm an Argentine-Italian living in Milan. I'm a dad, I swim, I snowboard when the mountains cooperate, and I spend an unreasonable amount of time designing things for my 3D printer.
 
 ---
 
-### 👋 Say hello
+### 💬 Let's Connect
 
-[/in/grecosebastian](https://www.linkedin.com/in/grecosebastian/)
+- **LinkedIn:** [/in/grecosebastian](https://www.linkedin.com/in/grecosebastian/)

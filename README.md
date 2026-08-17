@@ -8,7 +8,9 @@ Over the years I've been a developer, a founder, and an engineering manager. I j
 
 These days I'm using a sabbatical to make products, experiment with AI outside the demo stage, and automate increasingly specific problems around my house.
 
-## 🧰 Tech stack
+---
+
+### 🧰 Tech stack
 
 **Real-time and media**
 
@@ -42,7 +44,9 @@ These days I'm using a sabbatical to make products, experiment with AI outside t
 
 And many more languages and frameworks that don't exist anymore, which probably says more about my age than this list does.
 
-## 💥 Impact
+---
+
+### 💥 Impact
 
 - Migrated millions of active sessions to JWTs and Redis with zero downtime or interrupted recordings
 - Reduced overall latency by 33% after stabilizing cascading crashes during 15× growth and finding the Mongoose hydration bottleneck
@@ -52,16 +56,22 @@ And many more languages and frameworks that don't exist anymore, which probably 
 - Ran 100+ engineering interviews across IC, Team Lead, and VP-level roles, with final technical sign-off across multiple teams
 - Co-founded Streamix, worked with clients including Mediaset and Condé Nast, joined Startupbootcamp Media, pitched to 250+ investors, and somehow survived [the pitch](https://www.youtube.com/watch?v=iGYf1SZFDMU)
 
-## 🛠️ Things I've been building lately
+---
+
+### 🛠️ Things I've been building lately
 
 - **[FallosES](https://falloses.com)** is a legal research assistant for Spain. It searches official sources, keeps the context of the conversation, and returns answers with citations through the web or WhatsApp.
 - **[Verba](https://verbaspeech.app/)** is a dictation app for macOS. Transcription runs on the device, and a local language model cleans up the text without sending it to the cloud.
 - **[Informia](https://www.informia.com.ar/)** reads Argentine property documents, pulls out the useful fields, shows where each answer came from, and helps with the browser work that follows.
 
-## ☕ Beyond the code
+---
+
+### ☕ Beyond the code
 
 I'm an Argentine-Italian living near Milan. I'm a dad, I swim, I snowboard when the mountains cooperate, and I spend an unreasonable amount of time designing things for my 3D printer.
 
-## 👋 Say hello
+---
+
+### 👋 Say hello
 
 [/in/grecosebastian](https://www.linkedin.com/in/grecosebastian/)
